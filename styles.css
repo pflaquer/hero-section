@@ -11,7 +11,7 @@ body {
   height:96px;
   border-radius:50%;
   filter:drop-shadow(10px 5px 10px lightyellow);
-  overflow:visible;
+  overflow:hidden;
   display:flex;
   
   
