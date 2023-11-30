@@ -7,8 +7,8 @@ body {
 }
 
 .logo {
-  width:25%;
-  height:25%;
+  width:128px;
+  height:96px;
   border-radius:50%;
   filter:drop-shadow(10px 5px 10px lightyellow);
   overflow:visible;
@@ -45,19 +45,6 @@ body {
 
 .navbar {
   top: 40px;
-  
-}
-
-
-
-.logo {
-  width:15%;
-  height:15%;
-  border-radius:50%;
-  filter:drop-shadow(10px 5px 10px lightyellow);
-  overflow:visible;
-  display:flex;
-  
   
 }
 
